@@ -1,4 +1,4 @@
-package come.leetcode.reverseint;
+package com.leetcode.reverseint;
 
 public class Main {
 	
